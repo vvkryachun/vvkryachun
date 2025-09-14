@@ -26,8 +26,7 @@ YandexGPT | GigaChat | LangChain | ElevenLabs | Fine-tuning (PyTorch) | Prompt E
 
 ### 💻 **Программирование и инфраструктура**
 ```python
-Python | Jupyter | Replit | AWS | Azure | MySQL | Google Firestore 
-GitHub | Make | Zapier | Voiceflow | Bootstrap | FastAPI
+Python | Jupyter | MySQL | GitHub | Make | Zapier | Voiceflow | Bootstrap | FastAPI
 ```
 
 ▎Мои проекты
